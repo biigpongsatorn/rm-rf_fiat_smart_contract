@@ -1,4 +1,6 @@
-# rm-rf fiat (smart contract)
+```bash
+rm -rf fiat
+```
 
 Ethereum smart contract for send ether to customer address
 
